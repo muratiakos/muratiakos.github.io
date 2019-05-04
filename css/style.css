@@ -47,18 +47,6 @@ body {
     transition: all .3s;
 }
 
-    .section-title:after {
-        background: none repeat scroll 0 0 #fff;
-        bottom: -15px;
-        color: #333;
-        content: "\f0a7";
-        left: 45%;
-        line-height: 1px;
-        padding: 15px 5px;
-        position: absolute;
-        font-family: "FontAwesome";
-    }
-
 /* ------------------------------------------------------------------ */
 /* 2. Preloader CSS */
 /* ------------------------------------------------------------------ */
@@ -1020,13 +1008,6 @@ ul#nav {
         #portfolio h1:hover {
             border-color: #ddd;
         }
-
-    #portfolio .section-title:after {
-        background: transparent;
-        content: "\f0b1";
-        color: #fff;
-    }
-
 
 .btn-close {
     background: #ed5565;
