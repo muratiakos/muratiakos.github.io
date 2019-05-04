@@ -6,27 +6,27 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
   <loc>https://murati.hu/</loc>
-  <lastmod>2016-09-17T12:47:21+00:00</lastmod>
+  <lastmod>2019-05-02T12:47:21+00:00</lastmod>
   <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://murati.hu/#about</loc>
-  <lastmod>2016-09-17T12:47:21+00:00</lastmod>
+  <lastmod>2019-05-02T12:47:21+00:00</lastmod>
   <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://murati.hu/#resume</loc>
-  <lastmod>2016-09-17T12:47:21+00:00</lastmod>
+  <lastmod>2019-05-02T12:47:21+00:00</lastmod>
   <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://blog.murati.hu/</loc>
-  <lastmod>2016-09-17T12:47:21+00:00</lastmod>
+  <lastmod>2019-05-02T12:47:21+00:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>https://blog.murati.hu/contact/</loc>
-  <lastmod>2016-09-17T12:47:21+00:00</lastmod>
+  <lastmod>2019-05-02T12:47:21+00:00</lastmod>
   <changefreq>monthly</changefreq>
 </url>
 </urlset>
