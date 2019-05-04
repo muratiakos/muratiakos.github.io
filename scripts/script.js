@@ -2,26 +2,25 @@
 /* Preloader
 ------------------------------------------------------ */
 
-  $(window).load(function(){
+$(window).on('load', function(){
+   $('.loader').fadeOut();
+   $('#preloader').delay(350).fadeOut('slow');
+   $('body').delay(350);
+});
 
-    $('.loader').fadeOut();    
-    $('#preloader').delay(350).fadeOut('slow');    
-    $('body').delay(350);   
+jQuery(document).ready(function($) {
 
-    });
+   /*
+   ----------------------------------------------------
+   Initializing jQuery Nice Scroll
+   ----------------------------------------------------
+   */
 
-
- jQuery(document).ready(function($) {
-
-/*----------------------------------------------------*/
-/* Initializing jQuery Nice Scroll
------------------------------------------------------- */
-
-    $("html").niceScroll({
+   $("html").niceScroll({
       cursorcolor:"#11abb0", // Set cursor color
       cursorwidth: "8", // Sety cursor width
       cursorborder: "" // Set cursor border color, default left none
-    });
+   });
 
 
 /*----------------------------------------------------*/
