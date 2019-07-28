@@ -10,20 +10,6 @@ $(window).on('load', function(){
 
 jQuery(document).ready(function($) {
 
-   /*
-   ----------------------------------------------------
-   Initializing jQuery Nice Scroll
-   ----------------------------------------------------
-   */
-
-  $("body").niceScroll();
-   // $("html").niceScroll({
-   //    cursorcolor:"#11abb0", // Set cursor color
-   //    cursorwidth: "8", // Sety cursor width
-   //    cursorborder: "" // Set cursor border color, default left none
-   // });
-
-
 /*----------------------------------------------------*/
 /* FitText Settings
 ------------------------------------------------------ */
